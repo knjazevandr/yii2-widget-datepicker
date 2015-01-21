@@ -7,7 +7,7 @@
  * @version 1.2.0
  */
 
-namespace kartik\date;
+namespace knjazevandr\date;
 
 use Yii;
 use yii\helpers\Html;
