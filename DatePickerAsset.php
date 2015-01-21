@@ -7,7 +7,7 @@
  * @version 1.2.0
  */
 
-namespace knjazevandr\date;
+namespace kartik\date;
 
 /**
  * Asset bundle for DatePicker Widget
